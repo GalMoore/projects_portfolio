@@ -11,27 +11,22 @@ I'm available to connect on [LinkedIn](https://www.linkedin.com/in/galmoore) or 
 LOREM EPSUM. 
 Loren empsum...
 
-### [PROJECT 1](https://github.com/GAL_LINK1) 
+### [Shmoopi trap](https://github.com/GAL_LINK1) 
 - LOREM EPSUM
  start here...
 
-
-### [PROJECT 1](https://github.com/GAL_LINK1)
+### [Text classification with CNN, BiLSTM and Transformers](https://github.com/GAL_LINK1)
 - LOREM EPSUM
  start here...
 
-### [PROJECT 1](https://github.com/GAL_LINK1)
+### [UK traffic accident EDA](https://github.com/GAL_LINK1)
 - LOREM EPSUM
  start here...
 
-### [PROJECT 1](https://github.com/GAL_LINK1)
+### [K means colour clustering](https://github.com/GAL_LINK1)
 - LOREM EPSUM
  start here...
 
-### [PROJECT 1](https://github.com/GAL_LINK1)
-- LOREM EPSUM
- start here...
-
-### [PROJECT 1](https://github.com/GAL_LINK1)
+### [Toibot social robot](https://github.com/GAL_LINK1)
 - LOREM EPSUM
  start here...

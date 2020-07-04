@@ -13,7 +13,7 @@ Over the years I've worked on a broad range of robotics, computer vision, natura
 - Text classification and prediction with a Convolutional Neural Network, a Bidirectional LSTM and a Transformer trained on the 140m strong Amazon review dataset using word vectors. This was actually one of the last tasks on Y-Data's NLP course. It's interesting to compare three 'evolutions' of neural nets - with the final implementation a SOTA distilBert. All networks written in Pytorch. 
 
 ### [Rasbperry Pi](https://github.com/GalMoore/Shmoopi_Trap/tree/master/Shmoopi_trap/RaspiSecurity) 
-- Since moving to Tel Aviv with my wife, we've been suffering from continuous tresspassing from our pet dog Shmoops. Every time we left the house we would return to smelly sheets. So I created this Raspberry pi based system to notify us of the violation and rectify the naughtiness in real time.
+- Since moving to Tel Aviv with my wife, we've been suffering from continuous tresspassing from our pet dog Shmoops. Every time we left the house we would return to smelly sheets. So I created this Raspberry pi based system to notify us of the violation and rectify the naughtiness in real time. You can watch it in action [here](https://www.youtube.com/watch?v=pxpq5a0irYo&feature=emb_logo).
 
 ### [CNN for Image Segmentation](https://github.com/GalMoore/projects_portfolio/tree/master/CNN_for_Image_Segmentation)
 - As part of my work with Healthy.io I implemented a convolutional Neural Network for the purpose of segmenting chronic wounds in RGB images. This project was implemented in Tensorflow. This included collecting the dataset, tagging it, training the model on the cloud, testing and deploying. [Healthy.io](https://healthy.io/) is an amazing company and a fantastic place to work.

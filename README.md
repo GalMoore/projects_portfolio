@@ -1,11 +1,10 @@
-# My work portfolio - Hernan Rosenblum
+# project portfolio - Gal Moore
 
 ## About me
- My name is Hernan, I have a masters degree in Social Psychology from Ben Gurion University. <br>
- I have a strong understanding of quantitative research methods and a passion for structural problem-solving.<br>
- during my master's degree, I've found myself more and more drawn into the field of data manipulation and analysis.<br>
- In the past year, I've been learning how to code in python from scratch, and how to implement my knowledge and experience in conducting researches in an automated, big-scaled environment.<br>
-If you have a project idea, a collaboration offer, or if you would like to comment on some of my work, you can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-rosenblum-719516163/) or [mail](hernan.rosenblum89@gmail.com).
+ My name is Gal, I have an MSc in Computer Science from University College London (UCL) and recently (July 2020) completed Y-DATA's intensive 10 month course focusing on deep leraning, computer vision and NLP. <br>
+ I've worked as a data scientist and deep learning engineer for the past 3 years and always on the look out for new projects and great people to team up with!<br>
+
+I'm available to connect on [LinkedIn](https://www.linkedin.com/in/galmoore) or [mail](gal@galmoore.co.uk).
 
 <img src="https://cdn.clipart.email/b31a8e4dce12c35ea192f8420687c3fc_python-logo-clipart-easy-pandas-python-logo-png-download-_1242-733.png" width="215" height="135">
 

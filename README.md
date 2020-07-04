@@ -1,14 +1,9 @@
-# project portfolio - Gal Moore
+## Portfolio projects
 
- My name is Gal. I have an MSc in Computer Science from University College London and recently completed Y-DATA's intensive 10 month course focusing on deep leraning, computer vision and NLP. 
-
- I've worked as a data scientist and deep learning engineer for the past 3 years and always on the look out for new projects and great people to work with and learn from.<br>
+ Hey I'm Gal. I've worked as a data scientist and deep learning engineer for the past 3 years and always on the look out for new projects and great people to work with and learn from.<br>
 
 I'm available to connect on [LinkedIn](https://www.linkedin.com/in/galmoore) or through [email](gal@galmoore.co.uk).
 
-<!-- <img src="https://cdn.clipart.email/b31a8e4dce12c35ea192f8420687c3fc_python-logo-clipart-easy-pandas-python-logo-png-download-_1242-733.png" width="215" height="135"> -->
-
-## Summary
 Over the years I've worked on a broad range of robotics, computer vision, natural language processing and data science challenges. Most recently on optimization of Convolutional Neural Networks for deployment at split second execution, and before that integrating object detection algorithms in resource scarce underwater robots. I also generally like to keep busy learning new technologies and solving real world problems.  You can see some examples below.
 
 ### [Social Robot](https://medium.com/@Gushu/toybot-open-source-social-robot-faebc17c2700)

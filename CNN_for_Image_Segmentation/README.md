@@ -1,0 +1,1 @@
+As part of my work with Healthy.io I implemented a convolutional Neural Network for the purpose of segmenting chronic wounds in RGB images. This project was implemented in Tensorflow. This included collecting the dataset, tagging it, training the model on the cloud, testing and deploying. Healthy.io is an amazing company and a fantastic place to work.

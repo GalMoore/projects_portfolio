@@ -18,7 +18,7 @@ Over the years I've worked on a broad range of robotics, computer vision, natura
 ### [CNN for Image Segmentation](https://github.com/GalMoore/projects_portfolio/tree/master/CNN_for_Image_Segmentation)
 - As part of my work with Healthy.io I implemented a convolutional Neural Network for the purpose of segmenting chronic wounds in RGB images. This project was implemented in Tensorflow. This included collecting the dataset, tagging it, training the model on the cloud, testing and deploying. [Healthy.io](https://healthy.io/) is an amazing company and a fantastic place to work.
 
-### Retail Purchase Prediction
+### [Retail Purchase Prediction](https://github.com/GalMoore/projects_portfolio/tree/master/Predict_Purchase)
 - Exploratory Data Analysis (EDA) of an 80k row dataset of consumer behaviour online to predict if a customer will purchase or not. I compare the performance of multiple algorithms and 
 multiple features (num_visits, prodcts_in_cart,target_product_price, age, etc...). The Machine learning models inlcude Random Forest, Linear SVM, Logistic Regression, 
 Multinomial Naive Bayes & XGBoost; all run with 5-fold validation and various imputation strategies.    

@@ -6,6 +6,9 @@ I'm available to connect on [LinkedIn](https://www.linkedin.com/in/galmoore) or 
 
 Over the years I've worked on a broad range of robotics, computer vision, natural language processing, tabular and data science challenges. Most recently on optimization of Convolutional Neural Networks for deployment at split second execution, and before that integrating object detection algorithms in resource scarce underwater robots. I've also helped Fortune 500 companies and Governments identify and catch financial fraud and money laundering. I like to keep busy learning new technologies and solving real world problems.  You can see some examples below.
 
+### [COVID-19 tracker](https://github.com/GalMoore/projects_portfolio/blob/master/NEW_COVID-19.ipynb)
+- A notebook I created in February 2020 to track the growth of a new, deadly virus called COVID 19. At the time, there were two outbreaks, one in Hubei, China and one in Northern Italy. This notebook would run daily, pulling the latest WHO report of figures of infected and deaths, and visualise how the outbreak unfloded in different countries. 
+
 ### [Social Robot](https://medium.com/@Gushu/toybot-open-source-social-robot-faebc17c2700)
 - Toibot is a social robotics project I initiated in partnership with [Intel Israel](https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-israel.html) and [toilab](https://en.toilab.org/) to create an open-source platform that integrates computer vision, speech to text, a chat bot and text to speech on one easy-to-use python platform. Messaging used ROS framework and computer vision based on Intel's Openvino system. Chatbot used some Google Dialogflow funtionality and both S2T and T2S using Google API. You can also see a short demo [here](https://www.youtube.com/watch?v=CkXNGR9ayZk&feature=emb_logo).
 
